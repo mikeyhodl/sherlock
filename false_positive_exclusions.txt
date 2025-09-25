@@ -1,9 +1,12 @@
 APClips
+Carbonmade
 Coders Rank
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -12,6 +15,7 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+SoylentNews
 Splice
 Spotify
 Topcoder
