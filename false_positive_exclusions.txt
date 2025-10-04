@@ -1,23 +1,23 @@
 APClips
+BoardGameGeek
 Coders Rank
 CyberDefenders
 GNOME VCS
 Giphy
+GitBook
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
+TryHackMe
 Weblate
 YandexMusic
 kaskus
