@@ -1,26 +1,22 @@
 APClips
 BoardGameGeek
 Coders Rank
-CyberDefenders
+DeviantArt
 GNOME VCS
 Giphy
-GitBook
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
-Mydramalist
 PepperIT
 PocketStars
 Reddit
-Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
-TryHackMe
+Topcoder
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
-threads
