@@ -1,5 +1,4 @@
 APClips
-BoardGameGeek
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -17,6 +16,6 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-kaskus
 opennet
 svidbook
+xHamster
