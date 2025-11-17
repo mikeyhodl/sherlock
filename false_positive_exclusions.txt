@@ -1,10 +1,10 @@
 APClips
 Archive.org
 DeviantArt
-Dribbble
 GNOME VCS
 Giphy
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -13,8 +13,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-furaffinity
 opennet
-phpRU
 svidbook
 xHamster
