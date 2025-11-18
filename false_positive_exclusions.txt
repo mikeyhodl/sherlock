@@ -1,18 +1,14 @@
 APClips
 Archive.org
-DeviantArt
 GNOME VCS
 Giphy
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
-opennet
+phpRU
 svidbook
-xHamster
