@@ -1,18 +1,15 @@
 APClips
 Archive.org
-CGTrader
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
+Gravatar
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
