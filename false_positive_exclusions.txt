@@ -5,19 +5,16 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-Itch.io
 LushStories
-Minecraft
-Newgrounds
 PocketStars
 Reddit
 RocketTube
-Smule
+Slack
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
-hunting
 opennet
 svidbook
+xHamster
