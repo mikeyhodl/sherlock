@@ -1,13 +1,12 @@
 APClips
 Archive.org
-CGTrader
-Coders Rank
+Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -18,4 +17,5 @@ Weblate
 YandexMusic
 opennet
 svidbook
+threads
 xHamster
