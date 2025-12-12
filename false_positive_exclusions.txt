@@ -1,16 +1,15 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
 Coders Rank
 DeviantArt
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
+Itch.io
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
@@ -20,4 +19,5 @@ Weblate
 YandexMusic
 opennet
 svidbook
+threads
 xHamster
