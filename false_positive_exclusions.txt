@@ -18,5 +18,4 @@ Trovo
 Vero
 Weblate
 YandexMusic
-opennet
 svidbook
