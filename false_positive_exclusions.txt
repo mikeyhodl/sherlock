@@ -12,10 +12,9 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+SlideShare
 Splice
 Spotify
 Trovo
-Vero
 Weblate
 YandexMusic
-svidbook
