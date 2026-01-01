@@ -6,10 +6,9 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
+GitHub
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -21,7 +20,5 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
