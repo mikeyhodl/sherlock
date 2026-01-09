@@ -1,27 +1,28 @@
 APClips
 Archive.org
-BitBucket
+Carbonmade
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
-Itch.io
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
 SlideShare
+Smule
 Splice
 Spotify
-Strava
+Trovo
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
