@@ -1,12 +1,16 @@
 APClips
+Archive of Our Own
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LiveJournal
 LushStories
+OurDJTalk
 PocketStars
 Realmeye
 Reddit
@@ -18,7 +22,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
-eintracht
 mercadolivre
 opennet
 phpRU
