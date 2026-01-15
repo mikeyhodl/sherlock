@@ -1,14 +1,13 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -16,11 +15,11 @@ RocketTube
 Scribd
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
