@@ -1,6 +1,6 @@
 APClips
-Academia.edu
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -16,6 +16,7 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Trovo
@@ -25,4 +26,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
