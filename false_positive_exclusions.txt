@@ -7,7 +7,9 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -22,5 +24,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
