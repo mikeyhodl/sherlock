@@ -1,13 +1,15 @@
 APClips
 Archive.org
+CGTrader
+Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -21,7 +23,7 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 mercadolivre
+opennet
 phpRU
 svidbook
