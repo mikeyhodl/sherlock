@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
@@ -10,6 +9,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Patched
 PocketStars
 Realmeye
 Reddit
@@ -19,6 +19,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Tiendanube
 Trovo
 TryHackMe
 Weblate
