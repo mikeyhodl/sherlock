@@ -5,9 +5,9 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
-Hive Blog
 Hubski
 LessWrong
+LushStories
 Minecraft
 Patched
 PocketStars
@@ -16,7 +16,6 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -29,4 +28,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
