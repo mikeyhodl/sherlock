@@ -1,5 +1,4 @@
 APClips
-Archive of Our Own
 Archive.org
 Codolio
 DeviantArt
@@ -9,8 +8,8 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -21,6 +20,7 @@ Scribd
 Shelf
 SlideShare
 Smule
+Splice
 Spotify
 Strava
 Trovo
