@@ -4,14 +4,15 @@ Codolio
 DeviantArt
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -20,7 +21,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 Trovo
@@ -28,7 +28,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-nnRU
+minds
 opennet
 phpRU
 svidbook
