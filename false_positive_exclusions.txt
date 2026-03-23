@@ -1,15 +1,13 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -19,11 +17,11 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -32,3 +30,4 @@ minds
 opennet
 phpRU
 svidbook
+xHamster
