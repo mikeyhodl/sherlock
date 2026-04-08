@@ -2,6 +2,7 @@
 APClips
 Archive.org
 Bandcamp
+Blogger
 Codolio
 Discord.bio
 GeeksforGeeks
@@ -18,6 +19,7 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
