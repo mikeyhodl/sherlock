@@ -3,6 +3,7 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -12,11 +13,13 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Patched
+Minecraft
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
+ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -26,12 +29,10 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
-YandexMusic
+dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
