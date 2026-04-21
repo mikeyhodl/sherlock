@@ -8,13 +8,12 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
-PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,6 +26,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
