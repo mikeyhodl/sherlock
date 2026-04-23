@@ -4,15 +4,13 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
-LessWrong
-LushStories
 Minecraft
 Patched
 Pornhub
@@ -36,4 +34,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
