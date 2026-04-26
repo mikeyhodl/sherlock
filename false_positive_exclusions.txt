@@ -4,12 +4,12 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
-Carbonmade
 Codolio
+Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -28,6 +28,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -36,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
