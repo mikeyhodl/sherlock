@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -13,7 +14,6 @@ Giphy
 Hashnode
 Hubski
 LushStories
-Minecraft
 Patched
 Rarible
 Realmeye
@@ -23,6 +23,7 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Trovo
