@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+Crevado
 DeviantArt
 Discord.bio
 Envato Forum
@@ -37,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
