@@ -4,13 +4,13 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 Minecraft
 Patched
 Rarible
@@ -29,7 +29,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
