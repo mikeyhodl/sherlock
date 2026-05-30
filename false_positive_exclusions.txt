@@ -1,8 +1,10 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Codolio
 Discord.bio
 Envato Forum
@@ -13,6 +15,7 @@ Hubski
 LessWrong
 Minecraft
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
