@@ -5,11 +5,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -22,6 +20,7 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -37,7 +36,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
