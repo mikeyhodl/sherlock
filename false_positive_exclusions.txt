@@ -4,12 +4,14 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
@@ -24,8 +26,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -35,7 +35,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
