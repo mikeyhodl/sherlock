@@ -13,8 +13,8 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+NitroType
 Odysee
-OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -23,15 +23,14 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
 Weblate
-Wix
 YandexMusic
 authorSTREAM
 dailykos
