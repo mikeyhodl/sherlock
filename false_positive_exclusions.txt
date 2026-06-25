@@ -10,10 +10,11 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
+Houzz
 Hubski
 LessWrong
-NitroType
 Odysee
 Patched
 Rarible
@@ -23,7 +24,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
