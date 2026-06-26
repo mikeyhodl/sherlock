@@ -10,12 +10,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 LessWrong
 Odysee
+OurDJTalk
 Patched
 Rarible
 Realmeye
