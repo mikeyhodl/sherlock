@@ -1,3 +1,4 @@
+7Cups
 Airliners
 Apple Developer
 Apple Discussions
@@ -11,14 +12,12 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Houzz
 Hubski
-Itch.io
 LessWrong
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
-Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -42,3 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
