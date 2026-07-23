@@ -7,19 +7,15 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -27,11 +23,9 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Weblate
