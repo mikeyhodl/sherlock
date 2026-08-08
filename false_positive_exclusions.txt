@@ -4,7 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -30,13 +30,15 @@ Scribd
 Shelf
 SlideShare
 Splice
+Spotify
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+dcinside
 igromania
 interpals
 mercadolivre
