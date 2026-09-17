@@ -17,7 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -31,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
