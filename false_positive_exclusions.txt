@@ -14,10 +14,11 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Hive Blog
 Houzz
 Hubski
 Instapaper
-LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -48,3 +49,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+threads
