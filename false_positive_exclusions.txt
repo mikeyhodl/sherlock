@@ -3,11 +3,8 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
-Blogger
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -21,8 +18,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
+LiveJournal
 Minecraft
 ObservableHQ
 Odysee
