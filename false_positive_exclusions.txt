@@ -22,9 +22,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LiveJournal
-NationStates Nation
-NationStates Region
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
