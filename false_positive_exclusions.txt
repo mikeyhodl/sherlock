@@ -4,14 +4,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carrd
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -31,23 +29,19 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Strava
-Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
