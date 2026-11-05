@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -5,6 +6,7 @@ Archive.org
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -21,6 +23,7 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -35,6 +38,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -46,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
