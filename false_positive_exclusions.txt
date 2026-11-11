@@ -2,11 +2,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -15,7 +13,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Kvinneguiden
 ObservableHQ
 Odysee
 PCGamer
@@ -24,12 +21,12 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -41,6 +38,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
