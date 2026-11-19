@@ -2,8 +2,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Championat
 Chatujme.cz
 Codolio
 DeviantArt
@@ -14,6 +12,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 Linktree
 ObservableHQ
 Odysee
