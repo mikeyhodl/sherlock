@@ -14,7 +14,7 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -28,7 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -40,6 +39,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
